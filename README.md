@@ -2,7 +2,12 @@
 
 Faça download dos arquivos necessários do projeto e abra ele no 
 IDE da sua escolha. Visual Studio Code foi usado para realização
-desse projeto.
+desse projeto. 
+
+## Questão técnica 1, 2, 3
+
+As questões 1, 2 e 3 foram respondidas no arquivo "App.java" dentro 
+da pasta "\src".
 
 ## Questão técnica 4
 
